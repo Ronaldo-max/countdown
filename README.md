@@ -1,16 +1,16 @@
 # Countdown: Black Friday
 
-## Esse projeto é um contador de tempo para a black friday simulando uma inscrição de e-mail para receber notificações.
+## This project is a time counter for black friday simulating an email subscription to receive notifications.
 
 <br>
 <img src="Design-page.jpeg">
 <br>
 
-### Fontes
+### Sources
 
 - Poppins
 
-### Cores
+### Colors
 
 - #4D4C59, #4D4C5991, #BA68C8, #EEEEEE, #9C9AB6
 
@@ -22,7 +22,7 @@
 
 - Figma - <a href="https://www.figma.com">Figma</a>
 
-### Tecnologias
+### Technologies
 
 - HTML
 - CSS
